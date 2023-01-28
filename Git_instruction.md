@@ -3,7 +3,7 @@
 
 ## Дорожная карта
 
-![Коды GIT](/hellogit/GITcode.jpg)
+![Коды GIT](https://github.com/Ignasiya/hellogit/blob/main/HelloGit/GITcode.jpg)
 
 ## Начало 1. Семинар
 --------------------
