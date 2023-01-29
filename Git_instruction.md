@@ -109,9 +109,11 @@ Cкопировать репозиторий
 
     git merge <название_ветки>
 
-Памятка по git на Хабр
+Памятка по git
 ==============
 
 - [Git для новичков (часть 1)](https://habr.com/ru/post/541258/)
 
 - [Git для новичков (часть 2)](https://habr.com/ru/post/542616/)
+
+- [Изучите Git с помощью Bitbucket Cloud](https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud)
