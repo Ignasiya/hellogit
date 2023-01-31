@@ -8,7 +8,7 @@ str_num = "5" # string
 
 print(word + str(digit))
 
-print(number + int(str_num))
+print(word, number + int(str_num))
 
 del number
 
